@@ -1,0 +1,14 @@
+guy,gm,gm
+AzraelJaffar,wolf,vigilante,LiquidAngel,Lymric
+Lymric,wolf,vanilla,AzraelJaffar,LiquidAngel
+LiquidAngel,wolf,,AzraelJaffar,Lymric
+Aponda,human,guardian
+RandomizeR,human,vigilante
+Dietcar,human,bulletproof
+Kenigmatic,human,other
+Phil,wolf,sorcerer
+Ben,none,none
+Mystic,human,other
+Reaper,human,seer
+That_Kid,human,other
+Waffles,none,none

@@ -1,0 +1,11 @@
+Iron,gm,gm
+That_Kid,human,vigilante
+Dietcar,human,guardian
+Haplo,human,other
+AzraelJaffar,wolf,vanilla,Kenigmatic,Kenigmatic
+guy,human,vanilla
+Ben,human,vanilla
+Trientalis,human,seer
+eep,human,vanilla
+Kenigmatic,wolf,vanilla,AzraelJaffar
+Dr. Agon,wolf,seer,AzraelJaffar,Kenigmatic

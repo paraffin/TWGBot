@@ -1,0 +1,13 @@
+Dietcar,gm,gm
+Mystic,human,
+Ben,human,
+That_Kid,human,
+Haplo,wolf,,guy
+guy,wolf,,Haplo
+LiquidAngel,human,
+AzraelJaffar,human,
+Phil,human,
+Reaper,human,
+Lymric,human,
+RandomizeR,human,vanilla
+Kenigmatic,human,

@@ -1,0 +1,13 @@
+Kenigmatic,gm,gm
+LiquidAngel,human,
+guy,wolf,,Dietcar,Phil
+Dietcar,wolf,,guy,Phil
+Haplo,human,seer
+AzraelJaffar,human,other
+Cole,human,other
+Ben,human,guardian
+Phil,human,other,Dietcar,guy
+Mystic,human,other
+RandomizeR,human,
+Lymric,human,roleblock
+Reaper,human,

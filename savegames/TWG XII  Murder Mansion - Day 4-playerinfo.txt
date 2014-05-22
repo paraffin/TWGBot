@@ -1,0 +1,11 @@
+Haplo,gm,gm
+LiquidAngel,human,other
+Kenigmatic,human,other
+Ben,wolf,vanilla,Iron
+Iron,wolf,vanilla,Ben
+Dietcar,human,vigilante
+guy,human,other
+Mystic,human,other
+Dr. Agon,human,vanilla
+Daron,human,other
+Phil,human,other

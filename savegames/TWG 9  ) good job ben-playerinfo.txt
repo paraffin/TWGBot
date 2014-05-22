@@ -1,0 +1,13 @@
+guy,gm,gm
+Reaper,human,vanilla
+Diage,converted,
+Phil,human,vanilla
+Ben,human,guardian
+Dr. Agon,wolf,
+That_Kid,human,vanilla
+LiquidAngel,human,vanilla
+Dietcar,wolf,
+AzraelJaffar,human,vanilla
+Cole,human,vanilla
+Haplo,human,vanilla
+Kenigmatic,human,vanilla

@@ -1,0 +1,12 @@
+Haplo,gm,gm
+guy,human,other
+Dietcar,wolf,vanilla,Cole
+Dr. Agon,human,other
+Diage,human,seer
+Reaper,human,other
+Ben,human,mason,That_Kid
+LiquidAngel,human,other
+That_Kid,human,mason,Ben
+Cole,wolf,other,Dietcar
+Kenigmatic,human,guardian
+Phil,wolf,bulletproof,Dietcar,Cole

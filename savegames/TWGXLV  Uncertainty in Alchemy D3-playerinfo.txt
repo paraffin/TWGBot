@@ -1,0 +1,13 @@
+eep,gm,gm
+Trientalis,wolf,seer
+Death Butt,wolf,other,AngryNarwhal
+xazarus,human,roleblock
+Lymric,human,other
+Iron,human,other
+AngryNarwhal,wolf,other,Death Butt
+yeagz,human,other
+Cole,wolf,roleblocker
+guy,human,seer
+Dr. Agon,wolf,other,yeagz,Trientalis
+Rocuronium,human,other
+SwoopDoggyDog,human,other

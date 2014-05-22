@@ -1,0 +1,14 @@
+Ben,gm,gm
+Phil,human,vanilla
+RandomizeR,human,
+Reaper,human,
+Haplo,human,
+Red,human,
+Dietcar,human,
+guy,human,
+LiquidAngel,human,
+That_Kid,wolf,,AzraelJaffar,Lymric
+Lymric,wolf,,That_Kid,AzraelJaffar
+Kenigmatic,human,
+AzraelJaffar,wolf,,Lymric,That_Kid
+Mystic,none,none

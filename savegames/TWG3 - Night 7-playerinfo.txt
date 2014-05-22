@@ -1,0 +1,15 @@
+Mystic,gm,gm
+guy,human,
+Dietcar,human,vanilla
+LiquidAngel,wolf,
+AzraelJaffar,human,vanilla
+Ben,human,
+Haplo,human,
+Phil,wolf,,LiquidAngel,Aponda
+Reaper,human,
+That_Kid,human,
+Aponda,wolf,,LiquidAngel,Phil
+RandomizeR,human,
+Lymric,human,vanilla
+Kenigmatic,human,vanilla
+Kobu,human,vanilla

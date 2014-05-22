@@ -1,0 +1,12 @@
+Dietcar,gm,gm
+AzraelJaffar,human,vigilante
+Iron,human,guardian
+AngryNarwhal,human,other
+eep,human,other
+Mystic,human,seer
+That_Kid,human,bulletproof
+Dr. Agon,human,bomb
+guy,human,other
+LiquidAngel,human,vigilante
+Kenigmatic,human,other
+Death Butt,human,seer

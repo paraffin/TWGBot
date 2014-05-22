@@ -1,0 +1,14 @@
+Ben,gm,gm
+Dietcar,human,vanilla
+Reaper,human,vanilla
+Iron,human,vanilla
+Mystic,human,vanilla
+Haplo,human,seer
+Conrad,human,vanilla
+Phil,human,guardian
+RandomizeR,none,none
+guy,wolf,vanilla
+That_Kid,wolf,10,guy
+Dr. Agon,none,none
+Kenigmatic,none,none
+TriviaBot,none,none
