@@ -141,9 +141,11 @@ class Post:
     def stripquotes(self):
         """strip quotes and tags from soup"""
         for str in self.soup.findAll('blockquote'):
-            str.replaceWith('')
+            str.replaceWith(' ')
         for str in self.soup.findAll('div'):
-            str.replaceWith('')
+            str.replaceWith(' ')
+        for str in self.soup.findAll('br'):
+            str.replaceWith(' ')
 
     def countwords(self):
         """return number of words in soup"""
